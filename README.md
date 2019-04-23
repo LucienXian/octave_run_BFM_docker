@@ -4,7 +4,7 @@ The project is init Just because I don't want to install Matlab. I have modified
 
 ## Prepare BFM data
 
-[Link](<https://github.com/LucienXian/octave_run_BFM_docker/runBFM/README.md>)
+[Link](https://github.com/LucienXian/octave_run_BFM_docker/blob/master/runBFM/readme.md)
 
 ## build
 
